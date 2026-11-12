@@ -4,13 +4,13 @@ game-saving-loader-tests/
 │   │   └── style.css
 │   ├── js/
 │   │   ├── GameSaving.js
-│   │   ├── GameSavingLoader.js    ← отличается в задаче 1 и 2/3
+│   │   ├── GameSavingLoader.js    
 │   │   ├── reader.js              ← заглушка из задания
 │   │   └── parser.js              ← заглушка из задания
 │   ├── index.html
-│   └── index.js                   ← отличается в задаче 1 и 2/3
+│   └── index.js                   
 ├── __tests__/
-│   └── GameSavingLoader.test.js   ← отличается в каждой задаче
+│   └── GameSavingLoader.test.js   
 ├── .eslintignore
 ├── .eslintrc.json
 ├── .gitignore
